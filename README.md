@@ -121,7 +121,7 @@ This project is developed for educational purposes.
 
 ## 👨‍💻 Author
 
-**Ganeshu Srivanya**
+**Daragani Saveena**
 
 - B.Tech (Data Science)
 - Malla Reddy University
